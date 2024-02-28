@@ -1,1 +1,1 @@
-# Cat-grid-site
+THe website is a simple grid set up with a slide show at the bottom, if hovered will pause on the photo hovered. The nav is a fake nav bar there just for looks.
